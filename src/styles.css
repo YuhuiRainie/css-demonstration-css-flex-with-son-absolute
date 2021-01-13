@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+.father {
+  width: 300px;
+  height: 300px;
+  background-color: pink;
+  display: flex;
+  direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.son {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
+.son1 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(20, 37, 37);
+  position: absolute;
+}
